@@ -1,2 +1,3 @@
-# python_postgres_column
-permet d'avoir les détails des colonnes d'une table dans Postgresql
+# python-postgres-list-column
+
+Script Permettant d'avoir les détails des colonnes d'une table dans une base de données Postgresql
